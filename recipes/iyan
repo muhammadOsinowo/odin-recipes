@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Iyan is the best food in southwest Nigeria</h1>
+    <img src="iyan" alt="A picture of iyan">
+    <h2>Description</h2>
+    <p>Iyan is a very popular dish in Nigeria and to cook it, you need:</p>
+
+    <ul>
+        <li>Flour</li>
+        <li>Hot Water</li>
+        <li>Little oil</li>
+        <li>A steering spoon</li>
+    </ul>
+
+    <p>The steps are quite simple</p>
+    <ol>
+        <li>Boil the water well</li>
+        <li>Add the flour while steering making sure it evenly spread</li>
+        <li>Serve when done</li>
+    </ol>
+    
+</body>
+</html>
